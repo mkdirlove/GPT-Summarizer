@@ -47,7 +47,7 @@ python3 GPT-Summarizer.py -t 'Put some text here...' -n 3
 ```
 #### Sample Usage #2
 
-Read text from input:
+Read text from text file:
 ```
 python3 GPT-Summarizer.py -f text.txt -n 3
 ```
